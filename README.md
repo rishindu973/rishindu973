@@ -16,16 +16,16 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🧬 <b>Artificial Intelligence:</b> Currently developing <b>Kingsman</b>, an agentic AI financial governance system.</li>
-        <li>🛡️ <b>Cybersecurity:</b> Deeply interested in networking, system hardening, and secure backend architecture.</li>
-        <li>💻 <b>Backend Lead:</b> Experienced in building scalable systems with <b>Java, Spring Boot, and PostgreSQL</b>.</li>
-        <li>🕶️ <b>Beyond the Code:</b> Trying to do better.</li>
+        <li>🧬 <b>Artificial Intelligence:</b> Architecting <b>Kingsman</b>, an agentic AI financial governance system.</li>
+        <li>🛡️ <b>Cybersecurity:</b> Specialized in networking, system hardening, and secure backend logic.</li>
+        <li>💻 <b>Backend Lead:</b> Scaling systems with <b>Java, Spring Boot, and PostgreSQL</b>.</li>
+        <li>🕶️ <b>Beyond the Code:</b> Exploring the bits between 1 and 0.</li>
       </ul>
     </td>
     <td width="40%" align="center">
       <img src="giphy.gif" width="260px" style="border-radius: 10px;" alt="Digital Portrait" />
       <br/>
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=260&height=35&lines=The+Matrix+has+you..." alt="The Matrix has you..." />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=260&height=35&lines=The+Matrix+has+you;The+Matrix+has+you+.;The+Matrix+has+you+..;The+Matrix+has+you+..." alt="The Matrix has you..." />
     </td>
   </tr>
 </table>
@@ -36,7 +36,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,ts,js,bash,linux,react,spring,postgres,mysql,docker,next,figma,nodejs,postman,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,ts,js,bash,linux,react,spring,postgres,mysql,docker,next,figma,nodejs,postman,github,vscode&theme=dark" />
   </a>
 </p>
 
@@ -46,17 +46,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishindu973&theme=tokyonight&fire=00FF41&ring=7aa2f7&sideNums=7aa2f7&currStreakLabel=00FF41&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishindu973&theme=tokyonight&fire=00FF41&ring=00FF41&sideNums=7aa2f7&currStreakLabel=00FF41&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishindu973&show_icons=true&theme=tokyonight&title_color=00FF41&text_color=9ece6a&icon_color=00FF41&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rishindu973&show_icons=true&theme=tokyonight&title_color=00FF41&text_color=7aa2f7&icon_color=00FF41&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishindu973&layout=compact&theme=tokyonight&title_color=00FF41&text_color=9ece6a&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishindu973&layout=compact&theme=tokyonight&title_color=00FF41&text_color=7aa2f7&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rishindu973&color=00FF41&style=flat-square&label=SYSTEM+VISITORS" alt="Profile Views" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Frishindu973%2Frishindu973.json%3Fshow%3Dcount%26color%3D00ff41&label=SYSTEM_VISITORS&labelColor=000000&color=000000&style=flat-square" alt="Visitors" />
 
 </div>
 
