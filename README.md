@@ -49,3 +49,9 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishindu973&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+---
+
+<div align="center">
+  <sub>$ echo "git commit -m "Building a better version of myself""</sub>
+</div>
