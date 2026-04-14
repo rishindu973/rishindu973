@@ -26,7 +26,7 @@
     <td width="40%" align="center">
       <img src="giphy.gif" width="260px" style="border-radius: 10px;" alt="Digital Portrait" />
       <br/>
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=00FF41&background=000000&center=true&vCenter=true&width=260&height=35&lines=The+Matrix+has+you..." alt="The Matrix has you..." />
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=00FF41&background=000000&center=false&vCenter=true&width=175&height=35&lines=The+Matrix+has+you" alt="The Matrix has you" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00FF41&background=000000&center=false&vCenter=true&width=40&height=35&lines=..." alt="..." />
     </td>
   </tr>
 </table>
