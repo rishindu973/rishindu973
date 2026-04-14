@@ -24,7 +24,9 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="giphy.gif" width="180px" style="border-radius: 10px;" />
+      <img src="giphy.gif" width="260px" style="border-radius: 10px;" alt="Digital Portrait" />
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=260&height=35&lines=The+Matrix+has+you..." alt="The Matrix has you..." />
     </td>
   </tr>
 </table>
