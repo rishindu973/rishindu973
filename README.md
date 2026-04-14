@@ -53,5 +53,5 @@
 ---
 
 <div align="center">
-  <sub>$ echo "git commit -m "Building a better version of myself""</sub>
+  <sub>$ echo "Building a better version of myself"</sub>
 </div>
