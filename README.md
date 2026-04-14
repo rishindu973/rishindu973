@@ -45,9 +45,19 @@
 ### 📊 Network Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishindu973&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishindu973&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishindu973&theme=tokyonight&fire=00FF41&ring=7aa2f7&sideNums=7aa2f7&currStreakLabel=00FF41&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishindu973&show_icons=true&theme=tokyonight&title_color=00FF41&text_color=9ece6a&icon_color=00FF41&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishindu973&layout=compact&theme=tokyonight&title_color=00FF41&text_color=9ece6a&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rishindu973&color=00FF41&style=flat-square&label=SYSTEM+VISITORS" alt="Profile Views" />
+
 </div>
 
 ---
