@@ -56,7 +56,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rishindu973&color=00ff41&style=flat-square&label=SYSTEM_VISITORS&labelColor=000000" alt="Visitors" />
+<img src="https://img.shields.io/badge/dynamic/json?color=00ff41&label=SYSTEM_VISITORS&labelColor=000000&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Frishindu973%2Fvisits&style=flat-square" alt="Visitors" />
 
 </div>
 
