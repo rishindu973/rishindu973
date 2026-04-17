@@ -1,0 +1,25 @@
+name: Cache Buster
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update Timestamp
+        run: |
+          # This find-and-replaces a hidden timestamp in your README
+          sed -i "s/last_updated: .*/last_updated: $(date +%s)/" README.md
+          
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "System Sync: Cache Busted" || exit 0
+          git push
