@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishindu973&theme=tokyonight&fire=00FF41&ring=00FF41&sideNums=7aa2f7&currStreakLabel=00FF41&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishindu973&theme=tokyonight&fire=00FF41&ring=00FF41&sideNums=7aa2f7&currStreakLabel=00FF41&hide_border=true&include_all_commits=true&timezone=Asia/Colombo" alt="GitHub Streak" />
 
 <br/>
 
@@ -56,7 +56,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=00ff41&label=SYSTEM_VISITORS&labelColor=000000&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Frishindu973%2Fvisits&style=flat-square" alt="Visitors" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Frishindu973%2Frishindu973.json%3Fshow%3Dcount%26color%3D00ff41&label=SYSTEM_VISITORS&labelColor=000000&color=000000&style=flat-square" alt="Visitors" />
 
 </div>
 
