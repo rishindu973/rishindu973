@@ -16,9 +16,9 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🧬 <b>Artificial Intelligence:</b> Architecting <b>Kingsman</b>, an agentic AI financial governance system.</li>
-        <li>🛡️ <b>Cybersecurity:</b> Specialized in networking, system hardening, and secure backend logic.</li>
-        <li>💻 <b>Backend Lead:</b> Scaling systems with <b>Java, Spring Boot, and PostgreSQL</b>.</li>
+        <li>I am a <b>Computer Science Undergraduate at SLIIT</b>, operating at the intersection of AI, backend architecture, and system security. My passion lies in understanding how complex systems function under the hood—whether it's the hidden logic of a neural network or the structural integrity of a cloud-native environment.</li>
+        <li>I approach technology with the mindset of an engineer and a lifelong learner, always seeking to bridge the gap between abstract theory and scalable reality. Outside the digital realm, I apply that same level of discipline, believing that a resilient mind requires a resilient body.</li>
+        <li>Currently focused on mastering the layers of the stack and engineering a better version of myself, one commit at a time.</li>
         <li>🕶️ <b>Beyond the Code:</b> Exploring the bits between 1 and 0.</li>
       </ul>
     </td>
