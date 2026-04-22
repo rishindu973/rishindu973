@@ -17,10 +17,10 @@
     <td width="60%">
       <ul>
         <li> > CS Undergraduate @ SLIIT · Building at the edge of AI, Backend & Security</li>
-        <li>🔍 I operate at the intersection of **AI, backend architecture, and system security** — obsessed with how complex systems behave under the hood, from the hidden logic of a neural network to the structural integrity of a cloud-native stack.</li>
-        <li>🧩 I approach every problem with the mindset of an **engineer and a lifelong learner** — bridging abstract theory and production-grade reality.</li>
-        <li>Outside the terminal, I believe a **resilient mind needs a resilient body** — same discipline, different domain.</li>
-        <li>🕶️ **Beyond the code:** Exploring the bits between 1 and 0.</li>
+        <li>🔍 I operate at the intersection of <b>AI, backend architecture, and system security</b> — obsessed with how complex systems behave under the hood, from the hidden logic of a neural network to the structural integrity of a cloud-native stack.</li>
+        <li>🧩 I approach every problem with the mindset of an <b>engineer and a lifelong learner</b> — bridging abstract theory and production-grade reality.</li>
+        <li>Outside the terminal, I believe a <b>resilient mind needs a resilient body</b> — same discipline, different domain.</li>
+        <li>🕶️ <b>Beyond the code:</b> Exploring the bits between 1 and 0.</li>
       </ul>
     </td>
     <td width="40%" align="center">
