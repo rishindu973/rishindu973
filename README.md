@@ -10,7 +10,7 @@
 
 ---
 
-### 👤 System Status: About Me
+###  System Status: About Me
 
 <table>
   <tr>
@@ -33,7 +33,7 @@
 
 ---
 
-### 🧠 Core Processor (Languages & Tools)
+###  Core Processor (Languages & Tools)
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 Network Activity & Stats
+###  Network Activity & Stats
 
 <div align="center">
 
