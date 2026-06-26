@@ -49,15 +49,14 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishindu973&theme=tokyonight&fire=00FF41&ring=00FF41&sideNums=7aa2f7&currStreakLabel=00FF41&hide_border=true&include_all_commits=true&timezone=Asia/Colombo" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishindu973&show_icons=true&theme=tokyonight&title_color=00FF41&text_color=7aa2f7&icon_color=00FF41&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishindu973&layout=compact&theme=tokyonight&title_color=00FF41&text_color=7aa2f7&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Frishindu973%2Frishindu973.json%3Fshow%3Dcount%26color%3D00ff41&label=SYSTEM_VISITORS&labelColor=000000&color=000000&style=flat-square" alt="Visitors" />
+<img src="https://komarev.com/ghpvc/?username=rishindu973&label=SYSTEM_VISITORS&color=00ff41&style=flat-square" alt="Visitors" />
 
 </div>
 
