@@ -47,12 +47,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishindu973&theme=tokyonight&fire=00FF41&ring=00FF41&sideNums=7aa2f7&currStreakLabel=00FF41&hide_border=true&include_all_commits=true&timezone=Asia/Colombo" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=rishindu973&theme=tokyonight&fire=00FF41&ring=00FF41&sideNums=7aa2f7&currStreakLabel=00FF41&hide_border=true&include_all_commits=true&timezone=Asia/Colombo" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishindu973&show_icons=true&theme=tokyonight&title_color=00FF41&text_color=7aa2f7&icon_color=00FF41&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishindu973&layout=compact&theme=tokyonight&title_color=00FF41&text_color=7aa2f7&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=rishindu973&show_icons=true&theme=tokyonight&title_color=00FF41&text_color=7aa2f7&icon_color=00FF41&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishindu973&layout=compact&theme=tokyonight&title_color=00FF41&text_color=7aa2f7&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" />
 
 <br/><br/>
 
