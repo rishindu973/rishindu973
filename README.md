@@ -13,13 +13,14 @@
 <table>
   <tr>
     <td width="60%">
+      <p><b>CS Undergraduate @ SLIIT</b> · Building at the edge of AI, Backend & Security</p>  
+      <p>I operate at the intersection of <b>AI, backend architecture, and system security</b> obsessed with how complex systems behave under the hood, from the hidden logic of a neural network to the structural integrity of a cloud-native stack.</p>  
+      <p>I approach every problem with the mindset of an <b>engineer and a lifelong learner</b> bridging abstract theory and production-grade reality.</p>
+      <p>Outside the terminal, I believe a <b>resilient mind needs a resilient body</b> same discipline, different domain.</p>
       <ul>
-        <li> > CS Undergraduate @ SLIIT · Building at the edge of AI, Backend & Security</li>
-        <li> I operate at the intersection of <b>AI, backend architecture, and system security</b> — obsessed with how complex systems behave under the hood, from the hidden logic of a neural network to the structural integrity of a cloud-native stack.</li>
-        <li> I approach every problem with the mindset of an <b>engineer and a lifelong learner</b> — bridging abstract theory and production-grade reality.</li>
-        <li>Outside the terminal, I believe a <b>resilient mind needs a resilient body</b> — same discipline, different domain.</li>
         <li> <b>Beyond the code:</b> Exploring the bits between 1 and 0.</li>
       </ul>
+      <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=32&pause=1500&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=Risindu+Weeramanthri" alt="Animated Header" />
     </td>
     <td width="40%" align="center">
       <img src="giphy.gif" width="260px" style="border-radius: 10px;" alt="Digital Portrait" />
