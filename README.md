@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=%E2%8C%81+Risindu+Weeramanthri+%E2%8C%81" alt="Animated Header" />
-
 </div>
 
 ---
